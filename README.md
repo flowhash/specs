@@ -4,8 +4,7 @@ This repository contains the official specifications for **Flowhash** — the cr
 
 ## 📄 Published Specifications
 
-- [Pass–NFTC Boundary Specification (v0.1)](/pass-nftc-boundary/v0.1/pass-nftc-boundary-v0.1.md)
-
+- - [Pass–NFTC Boundary Specification (v0.1)](https://github.com/flowhash/specs/blob/main/pass-nftc-boundary/v0.1/pass-nftc-boundary-v0.1.md)
 ## 🧠 About
 
 Flowhash is an open protocol initiated by **carl0zen**, designed to enable portable identities and cryptographically verifiable event attestations across multiple domains.  
