@@ -4,7 +4,7 @@ This repository contains the official specifications for **Flowhash** — the cr
 
 ## 📄 Published Specifications
 
-- [Pass–NFTC Boundary Specification (v0.1)](./pass-nftc-boundary/v0.1/pass-nftc-boundary-v0.1.md)
+- [Pass–NFTC Boundary Specification (v0.1)](/pass-nftc-boundary/v0.1/pass-nftc-boundary-v0.1.md)
 
 ## 🧠 About
 
